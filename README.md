@@ -16,8 +16,8 @@ alt="Platform: windows | macos | linux" />
 alt="Visitor" />
 <a/>
 
-<a href="https://neovim.io/">
-<img src="https://img.shields.io/badge/%F0%9F%94%A7editor-neovim-blue" alt="Editor: Neovim">
+<img src="https://img.shields.io/badge/Editor-vim%20%7C%20vscode-blue">
+  
 <a/>
 
 Thanks for your supports!
