@@ -2,8 +2,6 @@
 
 <img align="right" height="250" alt="GIF" src="https://i.pinimg.com/originals/cd/59/d6/cd59d626dc86397fe45080e6e9c7027d.gif" />
 
-- 📫 How to reach me: victkid@gmail.com;
-
 <img width="400" src="https://github-readme-stats.vercel.app/api?username=victkid&show_icons=true&hide_border=true">
 
 <a href="https://github.com/victkid">
@@ -19,8 +17,6 @@ alt="Visitor" />
 <img src="https://img.shields.io/badge/Editor-vim%20%7C%20vscode-blue">
   
 <a/>
-
-Thanks for your supports!
 
 <!--
 **victkid/victkid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
