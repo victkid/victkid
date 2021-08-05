@@ -1,7 +1,7 @@
 ### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 <!-- <img align="right" height="250" alt="GIF" src="https://i.pinimg.com/originals/cd/59/d6/cd59d626dc86397fe45080e6e9c7027d.gif" /> -->
-
+<img align="right" height="250" alt="GIF" src="profile.gif" />
 <img width="400" src="https://github-readme-stats.vercel.app/api?username=victkid&show_icons=true&hide_border=true">
 
 <a href="https://github.com/victkid">
